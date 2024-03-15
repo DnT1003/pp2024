@@ -1,0 +1,11 @@
+pw4/
+|-- domain/
+|	|-- __init__.py
+|	|-- course.py
+|	|-- course_list.py
+|	|-- person.py
+|	|-- student.py
+|	|-- student_list.py
+|-- display_functions.py
+|-- input_functions.py
+|-- main.py
